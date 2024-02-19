@@ -1,4 +1,4 @@
-class Human:
+class Student:
     def __init__(self, name):
         self.name = name
         self.distance = 0
